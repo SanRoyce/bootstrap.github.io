@@ -1,0 +1,65 @@
+/* Enlace de google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+}
+/* Clases con tipografia */
+.card-text{
+    font-weight: 300;
+}
+.card-title{
+    font-weight: 300;
+}
+.text-muted{
+    font-weight: 300;
+}
+footer p{
+    font-weight: 300;
+}
+.form-control{
+    font-weight: 300;
+}
+.text-danger{
+    font-weight: 300;
+}
+/* color del navbar */
+.container-fluid{
+    background-color: #28a745;
+
+}
+/* medidas de las imagenes */
+.img{
+    width: 86px;
+    height: 25px;
+}
+/* cuadro final */
+form{
+    background-color: #28a745;
+
+}
+/* caracteristicas del precio */
+.price{
+    color: #28a745;
+    display: inline-block;
+    padding-top:15px;
+    font-weight: 500;
+    cursor: pointer;
+
+}
+/* alineación del precio */
+.card-footer{
+    text-align: right;
+}
+/* separación de precios */
+.text-muted{
+    padding-right: 5px;
+}
+ul{
+    cursor: pointer;
+}
+img {
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}
